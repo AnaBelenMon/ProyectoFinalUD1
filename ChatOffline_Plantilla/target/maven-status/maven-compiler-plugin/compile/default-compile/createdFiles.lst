@@ -1,0 +1,8 @@
+es\iesfranciscodelosrios\chat\controlador\GestorChat.class
+es\iesfranciscodelosrios\chat\modelo\ListaMensajes.class
+es\iesfranciscodelosrios\chat\controlador\GestorXML.class
+es\iesfranciscodelosrios\chat\Main.class
+es\iesfranciscodelosrios\chat\modelo\Mensaje.class
+es\iesfranciscodelosrios\chat\modelo\ListaUsuarios.class
+es\iesfranciscodelosrios\chat\vista\Vista.class
+es\iesfranciscodelosrios\chat\modelo\Usuario.class
